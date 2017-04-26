@@ -1,6 +1,6 @@
 # npmdoc-userhome
 
-#### api documentation for  [userhome (v1.0.0)](https://github.com/shama/userhome)  [![npm package](https://img.shields.io/npm/v/npmdoc-userhome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-userhome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-userhome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-userhome)
+#### basic api documentation for  [userhome (v1.0.0)](https://github.com/shama/userhome)  [![npm package](https://img.shields.io/npm/v/npmdoc-userhome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-userhome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-userhome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-userhome)
 
 #### A cross-platform path to the user's home
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
